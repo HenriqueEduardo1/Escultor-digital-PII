@@ -3,6 +3,9 @@
 #include "figurageometrica.h"
 #include "sculptor.h"
 
+/*!
+ * \brief A classe CutSphere tem como objetivo apagar uma esfera.
+ */
 class CutSphere:public FiguraGeometrica{
     protected:
         int xcenter, ycenter, zcenter, radius;

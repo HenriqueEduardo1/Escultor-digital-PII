@@ -3,6 +3,9 @@
 #include "figurageometrica.h"
 #include "sculptor.h"
 
+/*!
+ * \brief A classe PutSphere tem como objetivo criar uma esfera
+ */
 class PutSphere:public FiguraGeometrica{
     protected:
         int xcenter, ycenter, zcenter, radius;
