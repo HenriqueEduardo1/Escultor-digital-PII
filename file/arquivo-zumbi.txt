@@ -1,0 +1,4 @@
+dim 50 50 50
+putellipsoid 25 25 25 8 8 24 0.0 1.0 0.0 1.0
+cutellipsoid 25 25 25 7 7 23
+putvoxel 1 1 1
